@@ -13,6 +13,7 @@ public class Demo2Application {
 		return "Hello";
 	}
 	public static void main(String[] args) {
+		
 		SpringApplication.run(Demo2Application.class, args);
 	}
 
